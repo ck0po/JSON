@@ -1,0 +1,14 @@
+{
+	"name": "Евгений",
+	"surname": "Лаврищев",
+	"patronymic": "Андреевич",
+	"age": 23,
+	"pet": {
+		"animal": "cat",
+		"amount": "one"
+	},
+	"wage": {
+		"salary": "50-75"
+	}
+}
+
