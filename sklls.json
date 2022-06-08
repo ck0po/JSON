@@ -1,11 +1,11 @@
 {
-	"skill": "GitBash",
-	"skill": "GitHub",
-	"skill": "JSON,XML",
-	"skill": "Postman",
-	"skill": "Dev Tools",
-	"skill": "SQL",
-	"skill": "Sniffers",
-	"skill": "HTTP request, cods"
+	"skill_1": "GitBash",
+	"skill_2": "GitHub",
+	"skill_3": "JSON,XML",
+	"skill_4": "Postman",
+	"skill_5": "Dev Tools",
+	"skill_6": "SQL",
+	"skill_7": "Sniffers",
+	"skill_8": "HTTP request, cods"
 }
 
